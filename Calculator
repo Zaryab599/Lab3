@@ -18,3 +18,4 @@ Console.WriteLine("Enter number 2");
 int f = convert.ToInt32(Console.ReadLine());
 int mul =  e * f;
 console.WriteLine(mul);
+dffidos
